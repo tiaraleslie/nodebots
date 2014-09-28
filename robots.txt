@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://javascript-nz.github.io/nodebots/sitemap.xml 
+Sitemap: http://nodebots.co.nz/sitemap.xml 
