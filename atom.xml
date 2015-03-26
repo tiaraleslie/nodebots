@@ -4,7 +4,7 @@
   <title><![CDATA[NodeBots New Zealand]]></title>
   <link href="http://nodebots.co.nz/atom.xml" rel="self"/>
   <link href="http://nodebots.co.nz/"/>
-  <updated>2014-09-28T21:11:13+13:00</updated>
+  <updated>2015-03-26T21:06:03+13:00</updated>
   <id>http://nodebots.co.nz/</id>
   <author>
     <name><![CDATA[Alex Gibson]]></name>
@@ -14,13 +14,32 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Nodebots Are Go]]></title>
+    <link href="http://nodebots.co.nz/blog/2015/03/26/nodebots-are-go/"/>
+    <updated>2015-03-26T08:11:57+13:00</updated>
+    <id>http://nodebots.co.nz/blog/2015/03/26/nodebots-are-go</id>
+    <content type="html"><![CDATA[<p>We’ve hit our sponsorship target, which has enabled us to buy all the gear necessary to run Nodebots events.</p>
+
+<p>And run Nodebots events we have, already we’ve  run a pilot event during a <a href="http://www.meetup.com/Node-js-Wellington/events/221088394/">node.js meet-up</a> in Wellington, which was done in preparation for the <a href="http://christchurch.nodeconf.com">OneShot NodeConf</a> in Christchurch this weekend, in which we’ll be hosting a full day workshop on the Sunday.</p>
+
+<p>Our new sponsors; Xero, TradeMe and MediaSuite and original sponsors (believers); Hoist Apps and Atomic, have all pitched in to make this possible, and it is an incredible feat.</p>
+
+<p>Because of their commitment we have Nodebots nationwide, which is extremely unique, and something no other country in the world has done, or could do. But, since we’re a small country we can ship the gear to any city, relatively cheaply.</p>
+
+<p>So If you’d like to run a Nodebots event in your city or at your event, please get in touch with us via twitter <a href="https://twitter.com/nodebots_nz">@nodebots_nz</a>. Our goal is to run as many events as possible, hardware goes out of date quite fast, and we need to get the most out of it before it becomes antique hardware used in a museum.</p>
+
+<p>Thank you all for believing in us, we’ll see you at an event in your town soon.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Hello World]]></title>
     <link href="http://nodebots.co.nz/blog/2014/09/28/hello-world/"/>
     <updated>2014-09-28T20:34:35+13:00</updated>
     <id>http://nodebots.co.nz/blog/2014/09/28/hello-world</id>
     <content type="html"><![CDATA[<p>Hi Everybody and join me in welcoming to the world the brand spanking new NodeBots New Zealand.</p>
 
-<p>For a while now I&rsquo;ve been planning and working out how to bring NodeBots to New Zealand, and after a some sweat and hard work I&rsquo;ve finally started the ball rolling.</p>
+<p>For a while now I&rsquo;ve been planning and working out how to bring NodeBots to New Zealand, and after some sweat and hard work I&rsquo;ve finally started the ball rolling.</p>
 
 <p>Though sadly the initial kickoff Wellington NodeBots event is postponed until further notice, well&hellip; basically until I find one or two more sponsors to help alleviate the cost of the gear and kick the organisation off.</p>
 
